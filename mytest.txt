@@ -13,7 +13,11 @@ added by clone .....
 +++++++++++++++start+++++++++++++
 clone mack 1.
 clone mack 2.
-clone mack 3.
 clone mack 4.
 clone mack 5.
++++++++++++++++end+++++++++++++++
+
+added by clone branch ....
++++++++++++++++start+++++++++++++
+clone mack 1.
 +++++++++++++++end+++++++++++++++
