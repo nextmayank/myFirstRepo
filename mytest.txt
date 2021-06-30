@@ -7,3 +7,13 @@ hello i am mack 3
 hello i am mack 4
 hello i am mack 9
 hello i am mack 10
+
+added by clone .....
+
++++++++++++++++start+++++++++++++
+clone mack 1.
+clone mack 2.
+clone mack 3.
+clone mack 4.
+clone mack 5.
++++++++++++++++end+++++++++++++++
